@@ -18,8 +18,8 @@
 
 ## Alguns repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniormrtjy&repo=romaneiro-eventos&theme=dark)](https://romaneiro-eventos.vercel.app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniormrtjy&repo=vite-nlw-esports&theme=dark)](https://vite-nlw-esports.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniormrtjy&repo=romaneiro-eventos&theme=dark)](https://github.com/juniormrtjy/Romaneiro-Eventos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniormrtjy&repo=vite-nlw-esports&theme=dark)](https://github.com/juniormrtjy/vite-nlw-esports)
 
 ##
 
